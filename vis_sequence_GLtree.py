@@ -18,7 +18,7 @@ import time
 from GLtree.interval_tree import RedBlackTree, Node, BLACK, RED, NIL
 from GLtree.octree_vis_only import point3D
 import numpy as np
-from utils.ply_tuils import write_ply,create_color_palette,label_mapper
+from utils.ply_utils import write_ply,create_color_palette,label_mapper
 import random
 import h5py
 
