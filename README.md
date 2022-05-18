@@ -17,9 +17,9 @@ Our code has been tested with Python 3.7.6, PyTorch 1.1.0, open3d 0.9.0, CUDA 10
 
 
 ## Dataset and Pre-trained weights
-We use the ScanNetv2 as our test dataset. If you want to test all the data, you can download the ScanNetV2 dataset from [here](http://www.scan-net.org/). For a quick visulazation test, we provide several pre-proessing scenes of the test set [sequence](https://drive.google.com/open?id=1lPeRLbqtNp__Dejoo5bI_beh1XcUb_sn). Put the ***scene.h5*** in `path/data`.
+We use the ScanNetv2 as our test dataset. If you want to test all the data, you can download the ScanNetV2 dataset from [here](http://www.scan-net.org/). For a quick visulazation test, we provide several pre-proessing scenes of the test set [sequence](https://1drv.ms/u/s!AvuKnc9E9hmqhXJWps9cdc-hDPgA?e=kQ8Bw5). Put the ***scene.h5*** in `path/data`.
 
-We also provide the pre-trained weights for [ScanNet benchmark](http://kaldir.vc.in.tum.de/scannet_benchmark/), you can download from [here](https://drive.google.com/open?id=1kWgEWfOdWRWlo_n7rNcS--nKVlmtpPVw). After finishing the download, put the weights in `path/weight`.
+We also provide the pre-trained weights for [ScanNet benchmark](http://kaldir.vc.in.tum.de/scannet_benchmark/), you can download from [here](https://1drv.ms/u/s!AvuKnc9E9hmqhXMuH6MUHIitw4iw?e=e2d3vb). After finishing the download, put the weights in `path/weight`.
 
 
 ## Test
